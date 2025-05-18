@@ -1,4 +1,4 @@
-# Voice Source Analysis Project
+# Voice Analysis Entrepreneurial Pitches
 
 This project is focused on analyzing vocal data of entrepreneurial pitches. The analysis includes a main analysis, as well as specific analyses for both male and female voice data. Additionally, it includes a robustness analysis.
 
