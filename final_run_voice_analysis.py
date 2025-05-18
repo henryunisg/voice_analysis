@@ -10,6 +10,8 @@ from tqdm import tqdm
 from itertools import product
 from scipy.stats import chi2
 
+"Test Git"
+
 EPS = 1e-6
 # ───────────────────────────────────────────────────────────────────────────
 # HELPER FUNCTIONS
